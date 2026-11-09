@@ -1,0 +1,836 @@
+{
+  "schemaVersion": 1,
+  "note": "Строки для assets/ASSET-SOURCES.json (схема та же): добавить каждую запись assets[] по id, при совпадении id — объединить files по path. Файлы — реальные assets/sounds/*.mp3 (derivedFrom — исходник).",
+  "assets": [
+    {
+      "id": "music-fma-only-human",
+      "title": "ONLY HUMAN — HoliznaCC0",
+      "author": "HoliznaCC0",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/phonk-aura-farming/only-human/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-05",
+      "files": [
+        {
+          "path": "assets/sounds/phonk_1.mp3",
+          "sha256": "20b3f7e8d0fd57b3c323dd86fab082bffb1897cbc9e5f601207c646f6e5917fc",
+          "bytes": 251298,
+          "derivedFrom": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/M6MKtfnlAnG7z5uPWmlvc2U2rWtcF1HQBp3cQcqZ.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "music-fma-re-adusjtment",
+      "title": "Re Adusjtment — HoliznaCC0",
+      "author": "HoliznaCC0",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/phonk-aura-farming/re-adusjtment/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-05",
+      "files": [
+        {
+          "path": "assets/sounds/phonk_2.mp3",
+          "sha256": "6841486e6387ddbd385fad32d9b93e9cc86c8cea4167844ef731f7b060b3d9e4",
+          "bytes": 251298,
+          "derivedFrom": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rx2RMiReA4ESDaVvxdzbeIPowLcyK1bxhhL2s7Pg.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "music-fma-phonk-remix",
+      "title": "Phonk Remix — HoliznaCC0",
+      "author": "HoliznaCC0",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/phonk-aura-farming/phonk-remix/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-05",
+      "files": [
+        {
+          "path": "assets/sounds/phonk_3.mp3",
+          "sha256": "10241860801178872b5e67d74786aa48a1668a02ad8fdf725a3812ae430118c0",
+          "bytes": 251298,
+          "derivedFrom": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/QO9oU2v7nw6P5fgYRO5ORPKLnygxqRHyqs9cKXPK.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "music-fma-phonk-ish",
+      "title": "Phonk ish — HoliznaCC0",
+      "author": "HoliznaCC0",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/phonk-aura-farming/phonk-ish/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-05",
+      "files": [
+        {
+          "path": "assets/sounds/phonk_4.mp3",
+          "sha256": "ce4d1465cb0abd6f12f752b5367bb2c952fecb7005c0c30ad49a3a8da304735d",
+          "bytes": 251298,
+          "derivedFrom": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/RLX0u2cmWIjC0KerQHMzbWSILeGhWLIkxWorpbeQ.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "music-oga-bouncer",
+      "title": "Bouncer — Of Far Different Nature",
+      "author": "Of Far Different Nature",
+      "sourceUrl": "https://opengameart.org/content/bouncer-0",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/music_arena.mp3",
+          "sha256": "cccd78d47b2b89364b42c987a167e5a06cc345f41436be6ee15df23af81ca066",
+          "bytes": 960887,
+          "derivedFrom": "https://opengameart.org/sites/default/files/Of%20Far%20Different%20Nature%20-%20Bouncer%20%28CC0%29_1.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "music-fma-mirihi",
+      "title": "Mirihi — Shaloza",
+      "author": "Shaloza",
+      "sourceUrl": "https://freemusicarchive.org/music/shaloza/tropical-house/mirihi/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-05",
+      "files": [
+        {
+          "path": "assets/sounds/music_lobby.mp3",
+          "sha256": "5a1427e115eeaccb4738039f905e5848b53a139dc5125e33ea2197079519b563",
+          "bytes": 922852,
+          "derivedFrom": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/hw1QjurNEnDlz7tikFT6qU6LqN03yRsZULLGzrxy.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-383201",
+      "title": "Slap - Cartoony — AdminMP",
+      "author": "AdminMP",
+      "sourceUrl": "https://freesound.org/people/AdminMP/sounds/383201/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/slap_1.mp3",
+          "sha256": "02cac9f3ccba9943baf1e965938fb0312c48bba1a912b6b59292e1fe7a5af6aa",
+          "bytes": 5329,
+          "derivedFrom": "https://cdn.freesound.org/previews/383/383201_5992217-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-procedural-aura-farming",
+      "title": "Процедурные звуки «Ауры Шлепка» (tools/audio/synth.py)",
+      "author": "Аура Шлепка",
+      "sourceUrl": null,
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/slap_1.mp3",
+          "sha256": "02cac9f3ccba9943baf1e965938fb0312c48bba1a912b6b59292e1fe7a5af6aa",
+          "bytes": 5329,
+          "derivedFrom": "tools/audio/synth.py:thump_mid"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        },
+        {
+          "path": "assets/sounds/slap_2.mp3",
+          "sha256": "f01b88541615eee80446f2b69612012c860762e2f5256d552574380cbb08bd6b",
+          "bytes": 4075,
+          "derivedFrom": "tools/audio/synth.py:thump_lo"
+        },
+        {
+          "path": "assets/sounds/slap_3.mp3",
+          "sha256": "8356cac99860ddebee793ec392c6d304e0e8f18c9a85cd24f870aee69a5a50e9",
+          "bytes": 6896,
+          "derivedFrom": "tools/audio/synth.py:thump_mid"
+        },
+        {
+          "path": "assets/sounds/slap_4.mp3",
+          "sha256": "ee978c5f576ad6f73a2376767866b2e7254b06eed84aa28080e104dd291744ef",
+          "bytes": 9717,
+          "derivedFrom": "tools/audio/synth.py:thump_lo"
+        },
+        {
+          "path": "assets/sounds/aura_gain.mp3",
+          "sha256": "4fc1dc5eda7dc7b4709633b125719fdded73710a8092f3dc86d5918dc154acf8",
+          "bytes": 6269,
+          "derivedFrom": "tools/audio/synth.py:ding"
+        },
+        {
+          "path": "assets/sounds/unlock.mp3",
+          "sha256": "45dbc7129ab35500152c6c80c2c3c9fd5111b02c732ff1469d989f1b35b347d4",
+          "bytes": 21315,
+          "derivedFrom": "tools/audio/synth.py:ding"
+        },
+        {
+          "path": "assets/sounds/countdown_beep.mp3",
+          "sha256": "9e901b7d8029dc7a01c6394eb3346f44a2c41aa5fc43c428b87a45b21543224b",
+          "bytes": 2821,
+          "derivedFrom": "tools/audio/synth.py:beep"
+        },
+        {
+          "path": "assets/sounds/blackhole.mp3",
+          "sha256": "708d6fe3508daebe8e0df3f86ca46b2112dd442f3ee102b5ec5372196ecc08f9",
+          "bytes": 38243,
+          "derivedFrom": "tools/audio/synth.py:suck"
+        },
+        {
+          "path": "assets/sounds/boom_bass.mp3",
+          "sha256": "c23290ba2e29c3ae0a379eb433fbae9dd9030ff46b6b66bec597814d5cd61f20",
+          "bytes": 11598,
+          "derivedFrom": "tools/audio/synth.py:boom808"
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-522596",
+      "title": "A slap or smack in the face — pfranzen",
+      "author": "pfranzen",
+      "sourceUrl": "https://freesound.org/people/pfranzen/sounds/522596/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/slap_2.mp3",
+          "sha256": "f01b88541615eee80446f2b69612012c860762e2f5256d552574380cbb08bd6b",
+          "bytes": 4075,
+          "derivedFrom": "https://cdn.freesound.org/previews/522/522596_3482490-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-490768",
+      "title": "punch 1 - loud slap.ogg — steveuk87",
+      "author": "steveuk87",
+      "sourceUrl": "https://freesound.org/people/steveuk87/sounds/490768/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/slap_3.mp3",
+          "sha256": "8356cac99860ddebee793ec392c6d304e0e8f18c9a85cd24f870aee69a5a50e9",
+          "bytes": 6896,
+          "derivedFrom": "https://cdn.freesound.org/previews/490/490768_5438372-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-564230",
+      "title": "Huge Slap in the Face — njjjjjjjjjjjjjjjjjjjjjjjj",
+      "author": "njjjjjjjjjjjjjjjjjjjjjjjj",
+      "sourceUrl": "https://freesound.org/people/njjjjjjjjjjjjjjjjjjjjjjjj/sounds/564230/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/slap_4.mp3",
+          "sha256": "ee978c5f576ad6f73a2376767866b2e7254b06eed84aa28080e104dd291744ef",
+          "bytes": 9717,
+          "derivedFrom": "https://cdn.freesound.org/previews/564/564230_10435241-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-60013",
+      "title": "Whoosh — qubodup",
+      "author": "qubodup",
+      "sourceUrl": "https://freesound.org/people/qubodup/sounds/60013/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/swing_1.mp3",
+          "sha256": "54076a778a9d366b731c3b3b9e63a7c46e60880c267279084908fe628be67823",
+          "bytes": 5642,
+          "derivedFrom": "https://cdn.freesound.org/previews/60/60013_71257-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-389590",
+      "title": "Swing Woosh — Jofae",
+      "author": "Jofae",
+      "sourceUrl": "https://freesound.org/people/Jofae/sounds/389590/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/swing_2.mp3",
+          "sha256": "60ae7358c3279ca5a8934c6a448681e2de3f72ecd76396a2c9e9f9002cb9f7e8",
+          "bytes": 2821,
+          "derivedFrom": "https://cdn.freesound.org/previews/389/389590_6512973-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-243400",
+      "title": "woosh.wav — freakinbehemoth",
+      "author": "freakinbehemoth",
+      "sourceUrl": "https://freesound.org/people/freakinbehemoth/sounds/243400/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/dash.mp3",
+          "sha256": "1f6274f807b6c0241b6406b13277358909151f25f934b55eade7ca189a7c23e3",
+          "bytes": 8150,
+          "derivedFrom": "https://cdn.freesound.org/previews/243/243400_4146245-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-237980",
+      "title": "Very Big Whoosh — Paul368",
+      "author": "Paul368",
+      "sourceUrl": "https://freesound.org/people/Paul368/sounds/237980/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/whoosh_big.mp3",
+          "sha256": "ded89ea2ff1eda8093e306c33760c97fbc2da828e000a606d48a81b262d3197c",
+          "bytes": 29466,
+          "derivedFrom": "https://cdn.freesound.org/previews/237/237980_2971294-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-364690",
+      "title": "Human Impact on Ground — alegemaate",
+      "author": "alegemaate",
+      "sourceUrl": "https://freesound.org/people/alegemaate/sounds/364690/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/land_thud.mp3",
+          "sha256": "11f4574260a348252c85b8e03a4ec1e8c4be4e795209aeaec9b422118bfa8748",
+          "bytes": 6896,
+          "derivedFrom": "https://cdn.freesound.org/previews/364/364690_2531187-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-impact-sounds",
+      "title": "Impact Sounds",
+      "author": "Kenney (kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/land_thud.mp3",
+          "sha256": "11f4574260a348252c85b8e03a4ec1e8c4be4e795209aeaec9b422118bfa8748",
+          "bytes": 6896,
+          "derivedFrom": "Sound Pack/Kenney/impact-sounds/Audio/impactSoft_heavy_000.ogg"
+        },
+        {
+          "path": "assets/licenses/sound-impact-sounds/License.txt",
+          "sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db",
+          "bytes": 608,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-395443",
+      "title": "Cartoon Fall — plasterbrain",
+      "author": "plasterbrain",
+      "sourceUrl": "https://freesound.org/people/plasterbrain/sounds/395443/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/ko_fall.mp3",
+          "sha256": "062de1eda1b695c8b929751e337c43d9d0b015f06672f0e5a66b70d096f053dc",
+          "bytes": 26331,
+          "derivedFrom": "https://cdn.freesound.org/previews/395/395443_4284968-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-397355",
+      "title": "Tada Fanfare A — plasterbrain",
+      "author": "plasterbrain",
+      "sourceUrl": "https://freesound.org/people/plasterbrain/sounds/397355/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/unlock.mp3",
+          "sha256": "45dbc7129ab35500152c6c80c2c3c9fd5111b02c732ff1469d989f1b35b347d4",
+          "bytes": 21315,
+          "derivedFrom": "https://cdn.freesound.org/previews/397/397355_4284968-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-new-platformer-pack",
+      "title": "New Platformer Pack",
+      "author": "Kenney (kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/new-platformer-pack",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/coin.mp3",
+          "sha256": "a73027a3c1c8aa67782ad19d6a75020969b82dad3a6d3f23c657f54d16ca03b4",
+          "bytes": 3134,
+          "derivedFrom": "Sound Pack/Kenney/new-platformer-pack/Sounds/sfx_coin.ogg"
+        },
+        {
+          "path": "assets/licenses/sound-new-platformer-pack/License.txt",
+          "sha256": "f0bc5a99a4710f75a2d507e2ab153025af203d9a6b5a698df737a47684316077",
+          "bytes": 703,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-ui-audio",
+      "title": "UI Audio",
+      "author": "Kenney (kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/ui-audio",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/ui_click.mp3",
+          "sha256": "0814e99b4ce7256dbcbbd67fa6aabbccf1020e3b288c66f2f327a409c36c8c6f",
+          "bytes": 1253,
+          "derivedFrom": "Sound Pack/Kenney/ui-audio/Audio/click5.ogg"
+        },
+        {
+          "path": "assets/licenses/sound-ui-audio/License.txt",
+          "sha256": "4f88ab3c885c87874834441a0d009cea8942f57461d7b870be65cf4e31362073",
+          "bytes": 479,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-interface-sounds",
+      "title": "Interface Sounds",
+      "author": "Kenney (kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/ui_open.mp3",
+          "sha256": "4bb31390b7efee2b4b948c89df8ee26061821fffcbc25b1f392678010621a766",
+          "bytes": 5329,
+          "derivedFrom": "Sound Pack/Kenney/interface-sounds/Audio/maximize_006.ogg"
+        },
+        {
+          "path": "assets/licenses/sound-interface-sounds/License.txt",
+          "sha256": "f7966c773bbed0eca6a9c75081c44a178b38eae112724dbb5fdfbd4192d118a9",
+          "bytes": 574,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-221091",
+      "title": "cartoon pop or drip — AlaskaRobotics",
+      "author": "AlaskaRobotics",
+      "sourceUrl": "https://freesound.org/people/AlaskaRobotics/sounds/221091/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/bubble_pop.mp3",
+          "sha256": "7963ce9e8c1f89a4dfdf75a45493f05f2a7df45a5761e93efe9bfeedfdd623f7",
+          "bytes": 2194,
+          "derivedFrom": "https://cdn.freesound.org/previews/221/221091_1282865-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-456966",
+      "title": "Success Fanfare Trumpets.mp3 — FunWithSound",
+      "author": "FunWithSound",
+      "sourceUrl": "https://freesound.org/people/FunWithSound/sounds/456966/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/win_jingle.mp3",
+          "sha256": "9e2f2771706366782ae3b255c40a7da9050bbfea01a0528226770d2ce0602ece",
+          "bytes": 42318,
+          "derivedFrom": "https://cdn.freesound.org/previews/456/456966_6456158-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-175409",
+      "title": "wah wah sad trombone.wav — kirbydx",
+      "author": "kirbydx",
+      "sourceUrl": "https://freesound.org/people/kirbydx/sounds/175409/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/lose_jingle.mp3",
+          "sha256": "a357fac2b203315b4c55cf524b9c8dfc3a0eb11f156b74069851b69fab2b0f21",
+          "bytes": 49841,
+          "derivedFrom": "https://cdn.freesound.org/previews/175/175409_1326576-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-735062",
+      "title": "Fast Warp In — GammaGool",
+      "author": "GammaGool",
+      "sourceUrl": "https://freesound.org/people/GammaGool/sounds/735062/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/portal.mp3",
+          "sha256": "b8f3d50b63e3076395daf1a1479f562d98d061653bcd21a4f75d6190fe3564fd",
+          "bytes": 10031,
+          "derivedFrom": "https://cdn.freesound.org/previews/735/735062_8908475-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-784205",
+      "title": "Cartoon Explosion (designed on cassette tape lol) — modusmogulus",
+      "author": "modusmogulus",
+      "sourceUrl": "https://freesound.org/people/modusmogulus/sounds/784205/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/explosion.mp3",
+          "sha256": "f03167a81626c0927aa1e7421947585822cbd53eaac2e1e1ab701af45c2bc1af",
+          "bytes": 28525,
+          "derivedFrom": "https://cdn.freesound.org/previews/784/784205_15956618-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-sci-fi-sounds",
+      "title": "Sci-fi Sounds",
+      "author": "Kenney (kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/sci-fi-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/explosion.mp3",
+          "sha256": "f03167a81626c0927aa1e7421947585822cbd53eaac2e1e1ab701af45c2bc1af",
+          "bytes": 28525,
+          "derivedFrom": "Sound Pack/Kenney/sci-fi-sounds/Audio/lowFrequency_explosion_000.ogg"
+        },
+        {
+          "path": "assets/licenses/sound-sci-fi-sounds/License.txt",
+          "sha256": "a9767b25c3533f69d03af136480efad08efba19a9f0d89616992b34c79fd6186",
+          "bytes": 571,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-138484",
+      "title": "Chill Hit — JustInvoke",
+      "author": "JustInvoke",
+      "sourceUrl": "https://freesound.org/people/JustInvoke/sounds/138484/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/freeze.mp3",
+          "sha256": "e14746621a1d160caa5ef7de912e0aef2ed1e9b6c8ab94bb52c4a6ce01b2ee25",
+          "bytes": 8777,
+          "derivedFrom": "https://cdn.freesound.org/previews/138/138484_758593-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-160420",
+      "title": "iceSpell.wav — Relenzo2",
+      "author": "Relenzo2",
+      "sourceUrl": "https://freesound.org/people/Relenzo2/sounds/160420/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/freeze.mp3",
+          "sha256": "e14746621a1d160caa5ef7de912e0aef2ed1e9b6c8ab94bb52c4a6ce01b2ee25",
+          "bytes": 8777,
+          "derivedFrom": "https://cdn.freesound.org/previews/160/160420_2319653-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-267887",
+      "title": "Short-Fireball-Woosh.flac — wjl",
+      "author": "wjl",
+      "sourceUrl": "https://freesound.org/people/wjl/sounds/267887/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/fire_whoosh.mp3",
+          "sha256": "0a3b9c995a2d705cb6c4ee9eee5fa7152af03976af8e26518a2fb32de7a0a652",
+          "bytes": 12852,
+          "derivedFrom": "https://cdn.freesound.org/previews/267/267887_5025429-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-657653",
+      "title": "Black Portal - Dark Dimension Rift — LilMati",
+      "author": "LilMati",
+      "sourceUrl": "https://freesound.org/people/LilMati/sounds/657653/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/blackhole.mp3",
+          "sha256": "708d6fe3508daebe8e0df3f86ca46b2112dd442f3ee102b5ec5372196ecc08f9",
+          "bytes": 38243,
+          "derivedFrom": "https://cdn.freesound.org/previews/657/657653_6142149-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-475005",
+      "title": "Synth Bass Drop Impact — AlexLane",
+      "author": "AlexLane",
+      "sourceUrl": "https://freesound.org/people/AlexLane/sounds/475005/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/boom_bass.mp3",
+          "sha256": "c23290ba2e29c3ae0a379eb433fbae9dd9030ff46b6b66bec597814d5cd61f20",
+          "bytes": 11598,
+          "derivedFrom": "https://cdn.freesound.org/previews/475/475005_2617886-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": "sound-freesound-71853",
+      "title": "record_scratch.wav — ludvique",
+      "author": "ludvique",
+      "sourceUrl": "https://freesound.org/people/ludvique/sounds/71853/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "importedAt": "2026-10-04",
+      "files": [
+        {
+          "path": "assets/sounds/record_scratch.mp3",
+          "sha256": "a60ae21c49f06231d08a7f9e8a6ec69eca35bb86e124408b976c4c455190bfb4",
+          "bytes": 5642,
+          "derivedFrom": "https://cdn.freesound.org/previews/71/71853_1062668-hq.mp3"
+        },
+        {
+          "path": "assets/licenses/CC0-1.0.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048,
+          "license": true
+        }
+      ]
+    }
+  ]
+}

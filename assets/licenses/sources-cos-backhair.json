@@ -1,0 +1,23 @@
+[
+  {
+    "file": "assets/models/char/acc_{cape,bat_wings,butterfly_wings,dragon_wings,jetpack,guitar,shield}.glb (7 files)",
+    "source": "own work — generated procedurally in Blender 5.2 by tools/blender/char/build_acc_back_hair.py (code-built geometry, baked AO + colours in COLOR_0)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/models/char/acc_hair_{side_part,buzz,mohawk,afro,curly,bun,ponytail,pigtails}.glb (8 files)",
+    "source": "own work — generated procedurally in Blender 5.2 by tools/blender/char/build_acc_back_hair.py",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/ui/cos/<id>.png for every slot 'back' item and every tab 'hair' item of js/GameCosmeticsData.js (45 icons)",
+    "source": "own work — Blender EEVEE renders of the project's own r6.glb and acc_*.glb models (tools/blender/char/icons_back_hair.py)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  }
+]

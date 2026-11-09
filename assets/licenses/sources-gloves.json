@@ -1,0 +1,44 @@
+[
+  {
+    "file": "assets/models/gloves/glove_*.glb (20 files)",
+    "source": "own work — generated procedurally in Blender 5.2 by tools/blender/gloves/build.py (SDF geometry, baked vertex colours)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/ui/gloves/*.png (20 icons)",
+    "source": "own work — Blender EEVEE renders of the glove models (tools/blender/gloves/gloves.py, sheets.py)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/textures/gloves/* (meteor_rock, meteor_cracks, tile_subway, brainrot_stickers, hazard_stripes)",
+    "source": "own work — procedural textures drawn by tools/blender/gloves/textures.py (numpy + PIL); brainrot faces are original drawings, no existing characters",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/models/gloves/glove_rainbow.glb, glove_neon.glb, glove_pixel.glb, glove_dragon.glb (gloves 17-20, rewarded-ad unlocks)",
+    "source": "own work — generated procedurally in Blender 5.2 by tools/blender/gloves/build.py (catalog.py: v_rainbow, v_neon, v_pixel, v_dragon; SDF / swept tubes / voxel cubes, baked vertex colours)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/ui/gloves/rainbow.png, neon.png, pixel.png, dragon.png (icons 17-20)",
+    "source": "own work — Blender EEVEE renders of the glove models (tools/blender/gloves/gloves.py, sheets.py)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/textures/gloves/dragon_scales.jpg",
+    "source": "own work — procedural textures drawn by tools/blender/gloves/textures.py (numpy + PIL): diagonal rainbow bands; overlapping red scales with gold rims",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  }
+]

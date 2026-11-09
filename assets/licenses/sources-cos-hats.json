@@ -1,0 +1,16 @@
+[
+  {
+    "file": "assets/models/char/acc_{cowboy,wizard,viking,party_hat,chef_hat,santa_hat,pirate_hat,bunny_ears,halo,propeller_cap,hardhat,flower_crown,glasses_round,ski_goggles,eyepatch}.glb (15 files)",
+    "source": "own work — generated procedurally in Blender 5.2 by tools/blender/char/build_acc_hats.py (code-built geometry on the r6 head, baked AO + colours in COLOR_0)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/ui/cos/{cap_red,cap_blue,cap_black,tophat,beanie_orange,beanie_gray,crown,horns,cat_ears_pink,headphones_red,cowboy,wizard,viking,party_hat,chef_hat,santa_hat,pirate_hat,bunny_ears,halo,propeller_cap,hardhat,flower_crown,sunglasses,glasses_round,ski_goggles,eyepatch}.png (26 icons)",
+    "source": "own work — Blender EEVEE renders of the project's accessory models on the r6 head (face_smile), tools/blender/char/build_acc_hats.py",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  }
+]

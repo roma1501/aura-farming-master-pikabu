@@ -1,0 +1,37 @@
+[
+  {
+    "file": "assets/textures/shirts/shirt_{starter,tee_white,tee_black,tee_red,tee_yellow,stripes_red,stripes_navy,hoodie_gray,hoodie_black,hoodie_pink,hoodie_green,jacket_leather,suit_black,tuxedo,jersey_red,jersey_blue,camo,hawaiian,flannel_red,astronaut,ninja,knight,pirate,doctor,police,firefighter,chef,rainbow,galaxy_hoodie,tiedye,sweater_xmas,robot,royal}.png (33 files, 585x559 RGBA, Roblox Shirt template layout)",
+    "source": "own work — drawn procedurally by tools/art/cos_shirts.py (PIL + numpy, 4x supersampling); all logos, emblems, patterns and motifs are original drawings (no third-party brands, flags or characters)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "text glyphs inside shirt textures (+1, AURA, 10, 7, POLICE, FIRE)",
+    "source": "rasterised with the Nunito font (Black weight), assets/fonts/nunito.ttf",
+    "author": "The Nunito Project Authors",
+    "license": "SIL Open Font License 1.1 (assets/licenses/fonts_nunito/OFL.txt); rasterised glyphs in images are permitted",
+    "url": "https://github.com/googlefonts/nunito"
+  },
+  {
+    "file": "assets/textures/faces/face_{laugh,heart_eyes,star_eyes,dizzy,nerd,money,sad,bored,kiss,vampire,zombie,robot,blush,cyclops,ninja}.png (15 files, 512x512 RGBA)",
+    "source": "own work — drawn procedurally by tools/art/cos_faces.py (PIL, 2048 -> 512 supersampling), using the line primitives of tools/blender/char/faces.py; original drawings in the classic block-face style",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/ui/cos/face_*.png (30 icons, 128x128 RGBA)",
+    "source": "own work — the project's face textures on a shaded skin-colour disc, composed by tools/art/cos_faces.py",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  },
+  {
+    "file": "assets/ui/cos/shirt_*.png (33 icons, 128x128 RGBA)",
+    "source": "own work — Blender 5.2 EEVEE renders of the project's r6.glb torso and arms with the shirt textures over skin #F2C49B (tools/art/cos_shirt_icons.py + tools/art/cos_shirt_blender.py)",
+    "author": "Aura Farming Master project",
+    "license": "project-owned, no third-party content",
+    "url": ""
+  }
+]

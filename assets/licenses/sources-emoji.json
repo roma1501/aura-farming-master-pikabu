@@ -1,0 +1,1193 @@
+[
+  {
+    "file": "assets/textures/masks/mask_devil.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_cool.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_moai.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_ogre.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_smirk.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_money.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_scream.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_cold.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_sob.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_skull.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_fearful.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_mindblown.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_clown.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/textures/masks/mask_dizzy.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "unchanged 512 px PNG"
+  },
+  {
+    "file": "assets/ui/icon_aura.png",
+    "source": "Noto Color Emoji 🔥 U+1F525 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f525.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_aura_256.png",
+    "source": "Noto Color Emoji 🔥 U+1F525 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f525.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_aura_o.png",
+    "source": "Noto Color Emoji 🔥 U+1F525 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f525.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_aura_o_256.png",
+    "source": "Noto Color Emoji 🔥 U+1F525 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f525.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_skull.png",
+    "source": "Noto Color Emoji 💀 U+1F480 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f480.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_skull_256.png",
+    "source": "Noto Color Emoji 💀 U+1F480 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f480.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_skull_o.png",
+    "source": "Noto Color Emoji 💀 U+1F480 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f480.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_skull_o_256.png",
+    "source": "Noto Color Emoji 💀 U+1F480 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f480.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_gear.png",
+    "source": "Noto Color Emoji ⚙️ U+2699 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2699.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_gear_256.png",
+    "source": "Noto Color Emoji ⚙️ U+2699 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2699.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_gear_o.png",
+    "source": "Noto Color Emoji ⚙️ U+2699 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2699.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_gear_o_256.png",
+    "source": "Noto Color Emoji ⚙️ U+2699 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2699.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_video.png",
+    "source": "Noto Color Emoji 🎬 U+1F3AC (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3ac.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_video_256.png",
+    "source": "Noto Color Emoji 🎬 U+1F3AC (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3ac.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_video_o.png",
+    "source": "Noto Color Emoji 🎬 U+1F3AC (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3ac.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_video_o_256.png",
+    "source": "Noto Color Emoji 🎬 U+1F3AC (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3ac.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_crown.png",
+    "source": "Noto Color Emoji 👑 U+1F451 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f451.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_crown_256.png",
+    "source": "Noto Color Emoji 👑 U+1F451 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f451.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_crown_o.png",
+    "source": "Noto Color Emoji 👑 U+1F451 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f451.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_crown_o_256.png",
+    "source": "Noto Color Emoji 👑 U+1F451 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f451.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_trophy.png",
+    "source": "Noto Color Emoji 🏆 U+1F3C6 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3c6.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_trophy_256.png",
+    "source": "Noto Color Emoji 🏆 U+1F3C6 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3c6.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_trophy_o.png",
+    "source": "Noto Color Emoji 🏆 U+1F3C6 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3c6.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_trophy_o_256.png",
+    "source": "Noto Color Emoji 🏆 U+1F3C6 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3c6.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_shop.png",
+    "source": "Noto Color Emoji 🛒 U+1F6D2 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f6d2.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_shop_256.png",
+    "source": "Noto Color Emoji 🛒 U+1F6D2 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f6d2.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_shop_o.png",
+    "source": "Noto Color Emoji 🛒 U+1F6D2 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f6d2.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_shop_o_256.png",
+    "source": "Noto Color Emoji 🛒 U+1F6D2 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f6d2.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_on.png",
+    "source": "Noto Color Emoji 🔊 U+1F50A (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f50a.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_on_256.png",
+    "source": "Noto Color Emoji 🔊 U+1F50A (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f50a.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_on_o.png",
+    "source": "Noto Color Emoji 🔊 U+1F50A (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f50a.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_on_o_256.png",
+    "source": "Noto Color Emoji 🔊 U+1F50A (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f50a.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_off.png",
+    "source": "Noto Color Emoji 🔇 U+1F507 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f507.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_off_256.png",
+    "source": "Noto Color Emoji 🔇 U+1F507 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f507.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_off_o.png",
+    "source": "Noto Color Emoji 🔇 U+1F507 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f507.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_sound_off_o_256.png",
+    "source": "Noto Color Emoji 🔇 U+1F507 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f507.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_music.png",
+    "source": "Noto Color Emoji 🎵 U+1F3B5 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3b5.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_music_256.png",
+    "source": "Noto Color Emoji 🎵 U+1F3B5 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3b5.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_music_o.png",
+    "source": "Noto Color Emoji 🎵 U+1F3B5 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3b5.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_music_o_256.png",
+    "source": "Noto Color Emoji 🎵 U+1F3B5 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f3b5.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_bolt.png",
+    "source": "Noto Color Emoji ⚡ U+26A1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u26a1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_bolt_256.png",
+    "source": "Noto Color Emoji ⚡ U+26A1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u26a1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_bolt_o.png",
+    "source": "Noto Color Emoji ⚡ U+26A1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u26a1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_bolt_o_256.png",
+    "source": "Noto Color Emoji ⚡ U+26A1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u26a1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_star.png",
+    "source": "Noto Color Emoji ⭐ U+2B50 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2b50.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_star_256.png",
+    "source": "Noto Color Emoji ⭐ U+2B50 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2b50.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_star_o.png",
+    "source": "Noto Color Emoji ⭐ U+2B50 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2b50.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_star_o_256.png",
+    "source": "Noto Color Emoji ⭐ U+2B50 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2b50.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_dash.png",
+    "source": "Noto Color Emoji 💨 U+1F4A8 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a8.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_dash_256.png",
+    "source": "Noto Color Emoji 💨 U+1F4A8 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a8.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_dash_o.png",
+    "source": "Noto Color Emoji 💨 U+1F4A8 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a8.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_dash_o_256.png",
+    "source": "Noto Color Emoji 💨 U+1F4A8 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a8.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_hand.png",
+    "source": "Noto Color Emoji 🖐️ U+1F590 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f590.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_hand_256.png",
+    "source": "Noto Color Emoji 🖐️ U+1F590 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f590.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_hand_o.png",
+    "source": "Noto Color Emoji 🖐️ U+1F590 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f590.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_hand_o_256.png",
+    "source": "Noto Color Emoji 🖐️ U+1F590 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f590.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_gift.png",
+    "source": "Noto Color Emoji 🎁 U+1F381 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f381.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_gift_256.png",
+    "source": "Noto Color Emoji 🎁 U+1F381 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f381.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_gift_o.png",
+    "source": "Noto Color Emoji 🎁 U+1F381 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f381.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_gift_o_256.png",
+    "source": "Noto Color Emoji 🎁 U+1F381 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f381.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_heart.png",
+    "source": "Noto Color Emoji ❤️ U+2764 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2764.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_heart_256.png",
+    "source": "Noto Color Emoji ❤️ U+2764 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2764.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_heart_o.png",
+    "source": "Noto Color Emoji ❤️ U+2764 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2764.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_heart_o_256.png",
+    "source": "Noto Color Emoji ❤️ U+2764 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2764.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_ice.png",
+    "source": "Noto Color Emoji 🧊 U+1F9CA (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f9ca.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_ice_256.png",
+    "source": "Noto Color Emoji 🧊 U+1F9CA (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f9ca.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_ice_o.png",
+    "source": "Noto Color Emoji 🧊 U+1F9CA (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f9ca.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_ice_o_256.png",
+    "source": "Noto Color Emoji 🧊 U+1F9CA (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f9ca.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_bomb.png",
+    "source": "Noto Color Emoji 💣 U+1F4A3 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a3.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_bomb_256.png",
+    "source": "Noto Color Emoji 💣 U+1F4A3 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a3.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_bomb_o.png",
+    "source": "Noto Color Emoji 💣 U+1F4A3 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a3.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_bomb_o_256.png",
+    "source": "Noto Color Emoji 💣 U+1F4A3 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f4a3.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_ghost.png",
+    "source": "Noto Color Emoji 👻 U+1F47B (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f47b.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_ghost_256.png",
+    "source": "Noto Color Emoji 👻 U+1F47B (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f47b.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_ghost_o.png",
+    "source": "Noto Color Emoji 👻 U+1F47B (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f47b.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_ghost_o_256.png",
+    "source": "Noto Color Emoji 👻 U+1F47B (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f47b.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_swirl.png",
+    "source": "Noto Color Emoji 🌀 U+1F300 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f300.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_swirl_256.png",
+    "source": "Noto Color Emoji 🌀 U+1F300 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f300.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_swirl_o.png",
+    "source": "Noto Color Emoji 🌀 U+1F300 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f300.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_swirl_o_256.png",
+    "source": "Noto Color Emoji 🌀 U+1F300 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f300.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_timer.png",
+    "source": "Noto Color Emoji ⏱️ U+23F1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u23f1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_timer_256.png",
+    "source": "Noto Color Emoji ⏱️ U+23F1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u23f1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_timer_o.png",
+    "source": "Noto Color Emoji ⏱️ U+23F1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u23f1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_timer_o_256.png",
+    "source": "Noto Color Emoji ⏱️ U+23F1 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u23f1.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_check.png",
+    "source": "Noto Color Emoji ✅ U+2705 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2705.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_check_256.png",
+    "source": "Noto Color Emoji ✅ U+2705 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2705.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_check_o.png",
+    "source": "Noto Color Emoji ✅ U+2705 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2705.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_check_o_256.png",
+    "source": "Noto Color Emoji ✅ U+2705 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u2705.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_lock.png",
+    "source": "Noto Color Emoji 🔒 U+1F512 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f512.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_lock_256.png",
+    "source": "Noto Color Emoji 🔒 U+1F512 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f512.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_lock_o.png",
+    "source": "Noto Color Emoji 🔒 U+1F512 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f512.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_lock_o_256.png",
+    "source": "Noto Color Emoji 🔒 U+1F512 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f512.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/ui/icon_close.png",
+    "source": "Noto Color Emoji ❌ U+274C (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u274c.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 128 px"
+  },
+  {
+    "file": "assets/ui/icon_close_256.png",
+    "source": "Noto Color Emoji ❌ U+274C (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u274c.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred with 6% margin, resized to 256 px"
+  },
+  {
+    "file": "assets/ui/icon_close_o.png",
+    "source": "Noto Color Emoji ❌ U+274C (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u274c.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 128 px"
+  },
+  {
+    "file": "assets/ui/icon_close_o_256.png",
+    "source": "Noto Color Emoji ❌ U+274C (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u274c.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED by tools/art/emoji.py: cropped, re-centred, white sticker outline + dark contour added, 256 px"
+  },
+  {
+    "file": "assets/textures/masks/mask_grin_purple.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji"
+  },
+  {
+    "file": "assets/textures/masks/mask_grin_red.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji"
+  },
+  {
+    "file": "assets/textures/masks/mask_grin_shadow.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji"
+  },
+  {
+    "file": "assets/textures/masks/mask_scared_blue.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji"
+  },
+  {
+    "file": "assets/textures/masks/mask_cry_blue.png",
+    "source": "own drawing (tools/art/afm_masks.py), not Noto Emoji",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "own drawing (tools/art/afm_masks.py), not Noto Emoji"
+  },
+  {
+    "file": "assets/ui/icon.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/icon.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py",
+    "note": "text set in Nunito (SIL OFL-1.1, assets/fonts/nunito.ttf, assets/licenses/fonts_nunito/OFL.txt)"
+  },
+  {
+    "file": "assets/ui/favicon.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/favicon.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/ui/icon_meteor.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/icon_meteor.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py",
+    "note": "own icon (replaces Noto U+2604, which read as ice); sizes/sticker outline by tools/art/emoji.py"
+  },
+  {
+    "file": "assets/ui/icon_meteor_256.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/icon_meteor.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py",
+    "note": "own icon (replaces Noto U+2604, which read as ice); sizes/sticker outline by tools/art/emoji.py"
+  },
+  {
+    "file": "assets/ui/icon_meteor_o.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/icon_meteor.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py",
+    "note": "own icon (replaces Noto U+2604, which read as ice); sizes/sticker outline by tools/art/emoji.py"
+  },
+  {
+    "file": "assets/ui/icon_meteor_o_256.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/icon_meteor.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py",
+    "note": "own icon (replaces Noto U+2604, which read as ice); sizes/sticker outline by tools/art/emoji.py"
+  },
+  {
+    "file": "assets/ui/joystick_base.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/joystick_base.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/ui/joystick_knob.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/joystick_knob.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/star.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_star.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/sparkle.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_sparkle.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/heart.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_heart.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/impact_burst.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_impact_burst.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/impact_flash.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_impact_flash.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/ice_shard.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_ice_shard.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/flame.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_flame.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/speed_line.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_speed_line.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/confetti.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_confetti.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/confetti_sheet.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_confetti_sheet.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/confetti_sheet_white.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/art_svg.py, svg: tools/art/svg/fx_confetti_sheet_white.svg",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/art_svg.py"
+  },
+  {
+    "file": "assets/textures/fx/glow_dot.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/fx_numpy.py",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/fx_numpy.py"
+  },
+  {
+    "file": "assets/textures/fx/smoke_puff.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/fx_numpy.py",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/fx_numpy.py"
+  },
+  {
+    "file": "assets/textures/fx/dust.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/fx_numpy.py",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/fx_numpy.py"
+  },
+  {
+    "file": "assets/textures/fx/ring_shockwave.png",
+    "source": "Original artwork of this game (procedural SVG/numpy, generated by tools/art/build.py) — tools/art/fx_numpy.py",
+    "author": "Aura Farming Master project",
+    "license": "project-owned (original work)",
+    "url": "tools/art/fx_numpy.py"
+  }
+]

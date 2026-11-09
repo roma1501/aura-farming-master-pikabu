@@ -1,0 +1,234 @@
+[
+  {
+    "file": "assets/models/env/bush.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/cloud_1.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/cloud_2.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/cloud_3.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/island_arena.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/island_duel.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/island_lobby.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/island_royale.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/islet_1.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/islet_2.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/islet_3.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/leaderboard.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/moai.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/palm.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/palm_2.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/pedestal.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/portal.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/rock_1.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/rock_2.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/env/rock_3.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/props/bomb.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/props/ice_block.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/props/meteor.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/models/props/tile.glb",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "no external downloads; textures embedded into GLB"
+  },
+  {
+    "file": "assets/textures/env/baseplate_grass.jpg",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "procedural texture, also embedded into GLB"
+  },
+  {
+    "file": "assets/textures/env/chevron.png",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "procedural texture, also embedded into GLB"
+  },
+  {
+    "file": "assets/textures/env/ice.png",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "procedural texture, also embedded into GLB"
+  },
+  {
+    "file": "assets/textures/env/sand.jpg",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "procedural texture, also embedded into GLB"
+  },
+  {
+    "file": "assets/textures/env/tile_ornament.jpg",
+    "source": "original work: generated procedurally by tools/blender/env (Blender 5.2 Python, numpy); rebuild: tools/blender/env/build.bat",
+    "author": "Aura Farming Master project",
+    "license": "project-owned original (no third-party content)",
+    "url": "",
+    "note": "procedural texture, also embedded into GLB"
+  }
+]

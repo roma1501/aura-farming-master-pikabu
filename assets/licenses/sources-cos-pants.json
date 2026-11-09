@@ -1,0 +1,748 @@
+[
+  {
+    "file": "assets/textures/pants/pants_jeans_blue.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_jeans_blue.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_jeans_blue.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_jeans_black.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_jeans_black.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_jeans_black.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_shorts_khaki.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_shorts_khaki.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_shorts_khaki.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_shorts_blue.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_shorts_blue.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_shorts_blue.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_cargo_green.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_cargo_green.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_cargo_green.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_track_black.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_track_black.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_track_black.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_track_red.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_track_red.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_track_red.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_suit_black.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_suit_black.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_suit_black.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_white.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_white.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_white.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_camo.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_camo.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_camo.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_plaid_red.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_plaid_red.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_plaid_red.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_pink.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_pink.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_pink.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_purple.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_purple.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_purple.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_armor.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_armor.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_armor.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_ninja.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_ninja.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_ninja.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_pirate_striped.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_pirate_striped.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_pirate_striped.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_robot.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_robot.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_robot.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_astronaut.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_astronaut.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_astronaut.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_overalls.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_overalls.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_overalls.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_skirt_pink.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_skirt_pink.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_skirt_pink.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_sport_shorts_red.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_sport_shorts_red.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_sport_shorts_red.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_galaxy.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_galaxy.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_galaxy.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_rainbow.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_rainbow.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_rainbow.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_lava.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_lava.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_lava.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_ice.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_ice.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_ice.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_checkered.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_checkered.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_checkered.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/pants/pants_royal.png",
+    "source": "tools/art/cos_pants.py (procedural PIL/numpy drawing, Roblox Pants template layout 585x559)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original clothing texture; layout follows tools/blender/char/README.md «UV одежды»"
+  },
+  {
+    "file": "assets/ui/cos/pants_royal.png",
+    "source": "tools/art/cos_pants.py (Blender EEVEE render of assets/models/char/r6.glb legs with pants_royal.png)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original render, 128 px, dark contour"
+  },
+  {
+    "file": "assets/textures/fx/bolt.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/bubble.png",
+    "source": "tools/art/cos_fx.py (numpy)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/leaf.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/petal.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/music_note.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/dollar.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/cube.png",
+    "source": "tools/art/cos_fx.py (numpy)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/ghost.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/butterfly.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/snowflake.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/textures/fx/crown.png",
+    "source": "tools/art/cos_fx.py (SVG -> tools/art/render.mjs)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original particle texture"
+  },
+  {
+    "file": "assets/ui/cos/aura_fire.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/flame.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_fire_blue.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/flame.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_fire_green.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/flame.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_fire_purple.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/flame.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_ice.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/ice_shard.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_lightning.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/bolt.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_electric.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/bolt.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_hearts.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/heart.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_stars.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/star.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_gold_sparkle.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/sparkle.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_rainbow.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/glow_dot.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_galaxy.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/star.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_shadow.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/smoke_puff.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_bubbles.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/bubble.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_leaves.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/leaf.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_sakura.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/petal.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_music.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/music_note.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_money.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/dollar.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_confetti.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/confetti_sheet.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_pixels.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/cube.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_smoke.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/smoke_puff.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_toxic.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/bubble.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_embers.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/glow_dot.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_ghost.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/ghost.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_glitch.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/cube.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_halo_ring.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/ring_shockwave.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_butterflies.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/butterfly.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_snow.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/snowflake.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/cos/aura_royal.png",
+    "source": "tools/art/cos_ui.py (composite of game particle textures assets/textures/fx/crown.png and an R6 silhouette)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, 128 px"
+  },
+  {
+    "file": "assets/ui/daily_check.png",
+    "source": "tools/art/cos_ui.py (PIL drawing)",
+    "author": "own work (this game)",
+    "license": "own",
+    "note": "original icon, white sticker outline + dark contour, 64 px"
+  },
+  {
+    "file": "assets/ui/cos/tab_acc.png",
+    "source": "Noto Color Emoji 🧢 U+1F9E2 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f9e2.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: cropped, re-centred, white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/cos/tab_aura.png",
+    "source": "Noto Color Emoji 🔥 U+1F525 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f525.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: cropped, re-centred, white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/cos/tab_face.png",
+    "source": "Noto Color Emoji 😀 U+1F600 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f600.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: cropped, re-centred, white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/cos/tab_hair.png",
+    "source": "Noto Color Emoji 💇 U+1F487 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f487.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: cropped, re-centred, white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/cos/tab_pants.png",
+    "source": "Noto Color Emoji 👖 U+1F456 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f456.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: cropped, re-centred, white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/cos/tab_shirt.png",
+    "source": "Noto Color Emoji 👕 U+1F455 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f455.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: recoloured to saturated teal, cropped, re-centred, white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/daily_day.png",
+    "source": "Noto Color Emoji 🎁 U+1F381 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f381.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: box recoloured blue-violet, ribbon gold; white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/daily_day7.png",
+    "source": "Noto Color Emoji 🎁 U+1F381 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f381.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: box recoloured gold, ribbon crimson, white sticker outline + dark contour; original light rays, glow and sparkles (assets/textures/fx/sparkle.png) added; 256 px (tools/art/cos_ui.py)"
+  },
+  {
+    "file": "assets/ui/icon_wardrobe.png",
+    "source": "Noto Color Emoji 👕 U+1F455 (2D/png/512)",
+    "author": "Google Inc. (Noto Emoji project)",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googlefonts/noto-emoji/blob/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/png/512/emoji_u1f455.png",
+    "licenseFile": "assets/licenses/noto-emoji-LICENSE.txt",
+    "note": "MODIFIED: T-shirt recoloured to teal and combined with an original hanger drawing (tools/art/cos_ui.py), white sticker outline + dark contour, 128 px (tools/art/cos_ui.py)"
+  }
+]
